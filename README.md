@@ -5,7 +5,7 @@ You can access the paper using the link below:
 https://www.sciencedirect.com/science/article/abs/pii/S095741741630553X
 
 <p align="center">
-<img  src="_img/ga.png" alt="GDDclusteringGA" width="450"/>
+<img  src="_img/ga.png" alt="GDDclusteringGA" width="550"/>
 <br>
 <strong>Figure 1</strong> - Example of clustering process for 1D data.
 </p>
