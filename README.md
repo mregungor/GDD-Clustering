@@ -13,7 +13,8 @@ https://www.sciencedirect.com/science/article/abs/pii/S095741741630553X
 
 ## Properties 
 * No parameter is needed
-* Similarities are grouped together (see Figure 1)
+* Similarities are grouped together using Gaussian kernel and distances (see Figure 1)
+* Resulting clusters do not change at different runs.
 
 
 ### <strong>[Please cite as]:</strong>
@@ -21,5 +22,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S095741741630553X
 (http://www.sciencedirect.com/science/article/pii/S095741741630553X)
 
 
-for clustering datasets and or shapesets, you can look;
+for clustering datasets and or shapesets, you can look; <br>
 https://cs.joensuu.fi/sipu/datasets/
+<br>
+<small>(Note: You may get security warning as it is an old page from University of Eastern Finland).</small>
