@@ -1,0 +1,28 @@
+please cite as using one of them:
+_______________________________________________________________________________________
+@article{GUNGOR201710,
+title = "Distance and density based clustering algorithm using Gaussian kernel",
+journal = "Expert Systems with Applications",
+volume = "69",
+number = "Supplement C",
+pages = "10 - 20",
+year = "2017",
+issn = "0957-4174",
+doi = "https://doi.org/10.1016/j.eswa.2016.10.022",
+url = "http://www.sciencedirect.com/science/article/pii/S095741741630553X",
+author = "Emre Güngör and Ahmet Özmen",
+keywords = "Gaussian",
+keywords = "Density-based clustering",
+keywords = "Distribution-based clustering",
+keywords = "Distance-based clustering",
+keywords = "Data mining"
+}
+_______________________________________________________________________________________
+Emre Güngör, Ahmet Özmen, Distance and density based clustering algorithm using Gaussian kernel, In Expert Systems with Applications, Volume 69, 2017, Pages 10-20, ISSN 0957-4174, https://doi.org/10.1016/j.eswa.2016.10.022.
+(http://www.sciencedirect.com/science/article/pii/S095741741630553X)
+Keywords: Gaussian; Density-based clustering; Distribution-based clustering; Distance-based clustering; Data mining
+_______________________________________________________________________________________
+Güngör, Emre, and Ahmet Özmen. "Distance and density based 
+clustering algorithm using Gaussian kernel." Expert Systems with 
+Applications 69(2017): 10-20.
+_______________________________________________________________________________________
