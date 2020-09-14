@@ -25,4 +25,4 @@ https://www.sciencedirect.com/science/article/abs/pii/S095741741630553X
 for clustering datasets and or shapesets, you can look; <br>
 https://cs.joensuu.fi/sipu/datasets/
 <br>
-<small>(Note: You may get security warning as it is an old page from University of Eastern Finland).</small>
+<small>(Note: You may get security warning from your browsers).</small>
